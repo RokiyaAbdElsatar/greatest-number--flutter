@@ -1,4 +1,4 @@
-# 🧮 Greatest Number Flutter App
+# 🔢 Greatest Number Flutter App
 
 A simple Flutter application to check the greatest number.
 
