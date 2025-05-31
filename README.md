@@ -1,20 +1,57 @@
-# greater_num
+# 🧮 Greatest Number Flutter App
 
-A new Flutter project to check the greatest number.
+A simple Flutter application to check the greatest number.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Preview
 
 
-https://github.com/user-attachments/assets/bc44982c-1d8d-4f0b-a454-98ed6b99767f
 
+https://github.com/user-attachments/assets/6b937f41-be19-4de4-ba8a-d921ab865e20
+
+
+
+## 📂 Project Structure
+
+```
+lib/
+├── main.dart           # Entry point of the application
+```
+
+## 🧰 Dependencies
+
+- [`flutter`](https://flutter.dev/)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Compatible IDE (e.g., VS Code, Android Studio)
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/RokiyaAbdElsatar/greatest-number--flutter.git
+   cd greatest-number--flutter
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
